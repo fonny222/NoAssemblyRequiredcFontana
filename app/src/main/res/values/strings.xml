@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">No Assembly Required cFontana</string>
+    <string name="title_activity_selection">Selection</string>
+    <string name="txtTitleMain">What Tools Do You Need?</string>
+    <string name="btnSelection">View Selection</string>
+    <string name="txtTitle2">Please Choose One</string>
+    <string name="btnBicycle">Bicycle</string>
+    <string name="btnDresser">Dresser</string>
+    <string name="btnPatio">Patio</string>
+    <string name="txtTitle3">Bicycle</string>
+    <string name="txtTools">Tools</string>
+    <string name="btnBack">Back</string>
+    <string name="title_activity_bicycle">Bicycle</string>
+    <string name="txtToolsBicycle">Bicycle Assembly Tools</string>
+    <string name="txtAllenWrench">2/2.5/3/4/5/6/8 milimeter Allen Wrenches</string>
+    <string name="txtTorxWrench">T25 Torx Wrench</string>
+    <string name="txtSocketWrench">8/9/10/14 millimeter Socket Wrench</string>
+    <string name="txtPedalWrench">15 millimeter Pedal Wrench</string>
+    <string name="title_activity_dresser">Dresser</string>
+    <string name="txtTitle4">Dresser</string>
+    <string name="txtHammer">Hammer</string>
+    <string name="txtPhil">Phillips head Screwdriver</string>
+    <string name="txtFlat">Flat head Screwdriver</string>
+    <string name="title_activity_patio">Patio</string>
+    <string name="txtTitle5">Patio</string>
+    <string name="txtLevel">Level</string>
+    <string name="txtSquare">Square</string>
+    <string name="txtTape">Tape Measure</string>
+    <string name="txtMallet">Rubber Mallet</string>
+    <string name="txtDrill">Electric Drill</string>
+    <string name="txtBit">Concrete Drill bit</string>
+    <string name="txtLadder">Ladder</string>
+</resources>
